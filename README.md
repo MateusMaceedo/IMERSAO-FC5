@@ -12,10 +12,10 @@ As instruções de instalações estão no README.md de cada projeto.
 
 ## Ordem recomendada de execução
 
-* Apache Kafka
-* Golang
-* Back-end Nest.js
-* Front-end Next.js
+- [x] - Apache Kafka
+- [x] - Golang
+- [x] - Back-end Nest.js
+- [x] - Front-end Next.js
 
 ## Estrutura do contéudo
 
