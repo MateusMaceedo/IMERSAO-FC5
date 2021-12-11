@@ -10,16 +10,27 @@ Faça seu fork e também nos dê uma estrelinha para nos ajudar a divulgar o pro
 
 As instruções de instalações estão no README.md de cada projeto.
 
-## Ordem recomendada de execução
+#### Ordem recomendada de execução
 
 - [x] - Apache Kafka
 - [x] - Golang
 - [x] - Back-end Nest.js
 - [x] - Front-end Next.js
 
-## Estrutura do contéudo
+#### Estrutura do contéudo
 
 - [x] - Full Cycle, estudo de caso e microsserviços
+
+
+#### Tecnologias utilizadas
+
+- [x] - [Apache Kafka](https://kafka.apache.org/)
+- [x] - [Golang](https://go.dev/)
+- [x] - [NEXT.JS](https://nextjs.org/)
+- [x] - [Docker](https://www.docker.com/)
+- [x] - [kubernetes](https://kubernetes.io/pt-br/)
+- [x] - [Prometheus](https://prometheus.io/)
+- [x] - [Grafana](https://grafana.com/)
 
 ## Diagrama C4 da solução
 ![Diagrama C4](img/c4.png)
