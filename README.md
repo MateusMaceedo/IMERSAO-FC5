@@ -1,9 +1,9 @@
-# Imersão Fullcycle 5 - Gateway de pagamento
+## Imersão Fullcycle 5 - Gateway de pagamento
 ![Imersão Full Stack && Full Cycle](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png)
 
-Participe gratuitamente: https://imersao.fullcycle.com.br/
+>Participe gratuitamente: https://imersao.fullcycle.com.br/
 
-## Sobre o repositório
+#### Sobre o repositório
 Esse repositório contém todo código utilizado durante as aulas para referência.
 
 Faça seu fork e também nos dê uma estrelinha para nos ajudar a divulgar o projeto.
@@ -21,14 +21,14 @@ As instruções de instalações estão no README.md de cada projeto.
 
 - [x] - Full Cycle, estudo de caso e microsserviços
 
-
 #### Tecnologias utilizadas
 
 - [x] - [Apache Kafka](https://kafka.apache.org/)
 - [x] - [Golang](https://go.dev/)
 - [x] - [NEXT.JS](https://nextjs.org/)
+- [x] - [NEST.JS](https://nestjs.com/)
 - [x] - [Docker](https://www.docker.com/)
-- [x] - [kubernetes](https://kubernetes.io/pt-br/)
+- [x] - [Kubernetes](https://kubernetes.io/pt-br/)
 - [x] - [Prometheus](https://prometheus.io/)
 - [x] - [Grafana](https://grafana.com/)
 
