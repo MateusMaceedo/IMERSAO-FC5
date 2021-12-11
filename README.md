@@ -17,6 +17,10 @@ As instruções de instalações estão no README.md de cada projeto.
 * Back-end Nest.js
 * Front-end Next.js
 
+## Estrutura do contéudo
+
+- [x] - Full Cycle, estudo de caso e microsserviços
+
 ## Diagrama C4 da solução
 ![Diagrama C4](img/c4.png)
 
